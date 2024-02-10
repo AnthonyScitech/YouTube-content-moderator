@@ -1,6 +1,7 @@
 #include "Channel.h"
 
 // Default constructor
+
 Channel::Channel() : score(0.0) {
     // Initialize with default values
 }
